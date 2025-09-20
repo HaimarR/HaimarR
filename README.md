@@ -2,7 +2,7 @@
 
 ## Hi! I'm Haimar 👋
 
-I'm Aimar Rubio Delgado, but I go by Haimar. I'm a fourth-year Software Engineering Student at RIT. I enjoy combining software development, problem-solving, and critical-thinking skills to create reliable and efficient software. My passion is developing tools that make day-to-day life more efficient and enjoyable.
+I'm Aimar Rubio Delgado, but I go by Haimar. I'm a fourth-year Software Engineering Student at RIT. I enjoy combining software development, problem-solving, and critical-thinking skills to create reliable and efficient software. My passion is developing tools that make day-to-day life more efficient and enjoyable.  
 
 I have experience in collaborating in international team environments, developing and testing production-ready software, and balancing academic studies with professional experience to apply theory to practical solutions.
 
@@ -18,9 +18,9 @@ I have experience in collaborating in international team environments, developin
 
 ### Data Scientist Trainee
 
-Company: Veridas Digital Authentication Solutions
-Location: Pamplona, Spain
-Dates: Jul 2025 - Aug 2025
+Company: Veridas Digital Authentication Solutions  
+Location: Pamplona, Spain  
+Dates: Jul 2025 - Aug 2025  
 
 * Designed and engineered an automated, modular Python pipeline for large-scale audio dataset curation.
 * Reduced labeling effort from ~14 hours to under 10 minutes per 2,500 samples (98%+ reduction).
@@ -29,9 +29,9 @@ Dates: Jul 2025 - Aug 2025
 
 ### Software Quality Assurance Intern
 
-Company: C Speed
-Location: Syracuse, NY
-Dates: Aug 2024 - Dec 2024
+Company: C Speed  
+Location: Syracuse, NY  
+Dates: Aug 2024 - Dec 2024  
 
 * Conducted comprehensive testing of aircraft inspection systems, documenting 150+ defects in Azure DevOps.
 * Validated bug fixes and edge cases, improving system reliability and compliance.
@@ -39,9 +39,9 @@ Dates: Aug 2024 - Dec 2024
 
 ### Lead Programmer
 
-Company: PEER Institute & Rochester Institute of Technology
-Location: Rochester, NY
-Dates: Oct 2023 - Aug 2024
+Company: PEER Institute & Rochester Institute of Technology  
+Location: Rochester, NY  
+Dates: Oct 2023 - Aug 2024  
 
 * Led transition of PEER’s website from WordPress to Quarto, cutting migration costs by 30%.
 * Built a real-time event calendar fetching data via API.
@@ -51,8 +51,8 @@ Dates: Oct 2023 - Aug 2024
 
 ### Cookworm – Recipe & Food Sharing App
 
-Ongoing - Early Stages
-Personal Project
+Ongoing - Early Stages  
+Personal Project  
 
 #### [Check me out!](https://github.com/HaimarR/cookworm)
 
@@ -80,8 +80,8 @@ This project is helping me strengthen my skills in full-stack development, moder
 
 ### Automatic Job Tracker
 
-Ongoing - Mostly Developed, adding QoL features
-Personal Project
+Ongoing - Mostly Developed, adding QoL features  
+Personal Project  
 
 #### [Check me out!](https://github.com/HaimarR/job-application-tracker)
 
@@ -92,10 +92,10 @@ Personal Project
 
 ### Smart Mirror Project
 
-Mar 2025 – May 2025
-Society of Hispanic Professional Engineers (SHPE)
+Mar 2025 – May 2025  
+Society of Hispanic Professional Engineers (SHPE)  
 
-#### [Check me out!]([https://github.com/HaimarR/cookworm](https://github.com/EmilioGarciaRabell/SHPE_Smart_Mirror)
+#### [Check me out!](https://github.com/EmilioGarciaRabell/SHPE_Smart_Mirror)
 
 * Developed a full-stack smart mirror using React (frontend) and Python/Flask (backend).
 * Integrated APIs for news, traffic, and live camera feed.
@@ -103,8 +103,8 @@ Society of Hispanic Professional Engineers (SHPE)
 
 ### U-Fund Full-Stack Web Application
 
-Sep 2023 – Dec 2023
-Intro to Software Engineering
+Sep 2023 – Dec 2023  
+Intro to Software Engineering  
 
 * Built a donation management app with Java Spring Boot and Angular using MVVM architecture.
 * Produced technical documentation with UML diagrams, sequence diagrams, and domain models.
@@ -126,7 +126,7 @@ Intro to Software Engineering
 * Software Design for Computer Systems (Embedded Engineering)
 * Engineering of Software Subsystems
 * Engineering Secure Software
-* Softwware Systems Requirements and Architecture
+* Software Systems Requirements and Architecture
 * Software Process & Project Management
 
 ## Connect with Me! 📫
